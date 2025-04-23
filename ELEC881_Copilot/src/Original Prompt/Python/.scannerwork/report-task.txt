@@ -1,0 +1,6 @@
+projectKey=ELEC881
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=ELEC881
+ceTaskId=91645f71-a99c-4eed-a8a7-40abbd3d3c0b
+ceTaskUrl=http://localhost:9000/api/ce/task?id=91645f71-a99c-4eed-a8a7-40abbd3d3c0b
